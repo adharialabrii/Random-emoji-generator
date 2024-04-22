@@ -21,5 +21,3 @@ btn.addEventListener("mouseover",
 
 )
 
-// window and dot
-//does array store different data type?
